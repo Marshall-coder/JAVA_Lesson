@@ -47,10 +47,18 @@ public class TestTimer {
 
     }
 
+
     public static void main(String[] args){
         TestTimer t=new TestTimer();
         t.test();
     }
+/*git init
+git remote add origin 远程仓库的链接
+
+git add .
+git commit -m " "
+git push origin master
+ */
 
 
 
